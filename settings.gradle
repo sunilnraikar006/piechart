@@ -1,0 +1,2 @@
+include ':app', ':chartassets'
+rootProject.name='Charts'
